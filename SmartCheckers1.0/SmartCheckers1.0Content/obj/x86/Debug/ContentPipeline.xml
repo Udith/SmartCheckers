@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>back.png</Source>
+      <Name>back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\back.xnb</Output>
+      <Time>2013-11-03T19:08:33.8475053+05:30</Time>
+    </Item>
+    <Item>
+      <Source>black.png</Source>
+      <Name>black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\black.xnb</Output>
+      <Time>2013-10-27T00:06:37.0440466+05:30</Time>
+    </Item>
+    <Item>
+      <Source>black_click.png</Source>
+      <Name>black_click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\black_click.xnb</Output>
+      <Time>2013-10-27T00:42:07.4998647+05:30</Time>
+    </Item>
+    <Item>
+      <Source>white.png</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2013-10-27T00:42:07.5008647+05:30</Time>
+    </Item>
+    <Item>
+      <Source>white_click.png</Source>
+      <Name>white_click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\white_click.xnb</Output>
+      <Time>2013-10-27T00:42:07.5131943+05:30</Time>
+    </Item>
+    <Item>
+      <Source>crown.png</Source>
+      <Name>crown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\crown.xnb</Output>
+      <Time>2013-10-27T00:54:51.9401679+05:30</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2013-11-03T20:21:25.2004677+05:30</Time>
+    </Item>
+    <Item>
+      <Source>loss.png</Source>
+      <Name>loss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\loss.xnb</Output>
+      <Time>2013-12-18T16:06:39.0091373+05:30</Time>
+    </Item>
+    <Item>
+      <Source>win.png</Source>
+      <Name>win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\win.xnb</Output>
+      <Time>2013-12-18T16:06:39.0101377+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2013-10-27T01:07:56.3197198+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont2.spritefont</Source>
+      <Name>ScoreFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\ScoreFont2.xnb</Output>
+      <Time>2013-12-18T15:26:16.8163352+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Visual Studio Projects\SmartCheckers1.0\SmartCheckers1.0\SmartCheckers1.0\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-10T18:42:06.4488414+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

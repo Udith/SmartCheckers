@@ -1,0 +1,11 @@
+Content\back.xnb
+Content\black.xnb
+Content\black_click.xnb
+Content\white.xnb
+Content\white_click.xnb
+Content\crown.xnb
+Content\cursor.xnb
+Content\loss.xnb
+Content\win.xnb
+Content\ScoreFont.xnb
+Content\ScoreFont2.xnb
